@@ -10,7 +10,7 @@
 **第 1 週：課程規定與資料探勘介紹**
 
 * 課堂規定、課程方向及評量標準   [Link 1-1](第一週_1.課堂規定及評量標準.pptx)
-* 資料探勘_Data Mining Overview   [Link 1-2](第一週_2.資料探勘_Data Mining Overview.ppt)
+* 資料探勘_Data Mining Overview   [Link1-2](第一週_2.資料探勘_Data Mining Overview.ppt)
 
 ---
 
